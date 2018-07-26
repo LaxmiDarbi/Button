@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="button">button</string>
+    <string name="Email_ID">Text Email ID</string>
+    <string name="phone">Phone Number</string>
+    <string name="checkbox1">Java</string>
+    <string name="checkbox2">Android</string>
+    <string name="checkbox3">Web</string>
+    <string name="checkbox4">Python</string>
+</resources>
